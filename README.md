@@ -2,7 +2,7 @@
 
 Live scores of the current event
 
-|   Team        |   Highest Gflop   |   Ranking |   Past Ranking |   Over all |
+|   Team        |   Highest Gflop   |   Ranking |   Past Ranking |   Overall  |
 |   -------     |   -----------     |   ------- | -----------    |  --------- |
 | Turbo_Threads |       0           |     0     |       0        |     0      |
 | Honda         |       0           |     0     |       0        |     0      |
