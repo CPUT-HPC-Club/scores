@@ -7,4 +7,7 @@ Live scores of the current event
 | Turbo_Threads |       0           |     0     |       0        |     0      |
 | Honda         |       0           |     0     |       0        |     0      |
 | Hive_minds    |       0           |     0     |       0        |     0      |
+| Unknown       |       0           |     0     |       0        |     0      |
+| Maanda        |       0           |     0     |       0        |     0      |
+| Anthony       |       0           |     0     |       0        |     0      |
 | none          |       0           |     0     |       0        |     0      |
