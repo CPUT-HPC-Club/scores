@@ -10,5 +10,5 @@ Live scores of the current event
 | Avengers      |       0           |     0     |       0        |     0      |
 | Unknown       |       0           |     0     |       0        |     0      |
 | Maanda        |       0           |     0     |       0        |     0      |
-| Anthony       |   6.3669e-04      |     3     |     1,3        |     2      |
+| Anthony       |   6.3669e-04      |     4     |     1,3        |     2      |
 | none          |       0           |     0     |       0        |     0      |
